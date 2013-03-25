@@ -13,5 +13,5 @@ class LogReader
   
 end
 
-logFile = LogReader.new("../log_files/log1.csv")
+logFile = LogReader.new("../log-files/log1.csv")
 logFile.read
